@@ -32,6 +32,11 @@ src="https://img.shields.io/twitter/follow/ziiklinux?logo=twitter&style=for-the-
 </p>
 
 
+### Badges
+
+<a href="https://github.com/ziiklinux" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziiklinux&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 ### Certifications
 
 | **AZ-900** | **SC-900** | **AWS Certified Cloud Practitioner** | **Uncomplicating Docker** | **Mutirão DevOps** | **LFS169: Introduction to GitOps** |
@@ -45,9 +50,7 @@ src="https://img.shields.io/twitter/follow/ziiklinux?logo=twitter&style=for-the-
 /></a><a href="https://bsky.app/profile/ziiklinux.bsky.social" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/2319px-Bluesky_Logo.svg.png" width="32" height="32" alt="BlueSky" />
 
 
-### Badges
 
-<a href="https://github.com/ziiklinux" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziiklinux&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
