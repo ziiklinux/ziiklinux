@@ -7,7 +7,6 @@ DevOps Engineer
 I am a professional who understands the value of working in a team and cultivating healthy interpersonal relationships to achieve common goals. I am always seeking new challenges and opportunities to grow in my career. I have experience in technology roles, including DevOps Engineer, Cloud Engineer, and Cloud Administrator, and I possess advanced knowledge of Linux operating systems and version control tools like Git. Additionally, I have skills in container technologies, including Docker and Kubernetes. I am also capable of creating, managing, and automating cloud infrastructure using tools such as Terraform, Ansible, and Azure DevOps. My experience extends to the Azure and AWS cloud platforms, and I have knowledge in data security and secret management, utilizing tools like Hashicorp Vault.
 
 * 🌍  I'm based in Garça -São Paulo - Brazil.
-* 🖥️  See my portfolio at [https://github.com/ziiklinux](http://https://github.com/ziiklinux)
 * ✉️  You can contact me at [henriquemv@protonmail.com](mailto:henriquemv@protonmail.com)
 * 🧠  I'm learning Docker, Kubernetes,Terraform and Azure.
 
