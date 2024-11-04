@@ -9,7 +9,7 @@ I am a professional who understands the value of working in a team and cultivati
 * 🌍  I'm based in Garça -São Paulo - Brazil.
 * 🖥️  See my portfolio at [https://github.com/ziiklinux](http://https://github.com/ziiklinux)
 * ✉️  You can contact me at [henriquemv@protonmail.com](mailto:henriquemv@protonmail.com)
-* 🧠  I'm learning Docker, Kuberntes,Terraform and Azure.
+* 🧠  I'm learning Docker, Kubernetes,Terraform and Azure.
 
 <a href="https://www.github.com/ziiklinux" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ziiklinux?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ziiklinux" target="_blank" rel="noreferrer"><img
