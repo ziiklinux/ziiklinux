@@ -23,8 +23,7 @@ I am a professional who understands the value of working in a team and cultivati
 /></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="36" height="36" alt="Github"
 /></a><a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448256/vault.svg" width="36" height="36" alt="Vault"
 /></a><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/githubactions-icon-2048x2048-ipqow27x.png" width="36" height="36" alt="Github Actions"
-/></a><a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img 
-src="https://camo.githubusercontent.com/989cf118aebfa6c4040f6cc93f5539e8f490b656a52dc687fc8f186a5dc951a7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e67696e782f6e67696e782d6f726967696e616c2e737667" width="36" height="36" alt="Nginx"
+/></a><a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="36" height="36" alt="Nginx"
 
 
                                                                              
