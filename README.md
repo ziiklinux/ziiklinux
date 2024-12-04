@@ -12,7 +12,7 @@ I am a professional who understands the value of working in a team and cultivati
 
 
 
-### Skills
+### My DevOps stack
 
 
 <p align="left">
