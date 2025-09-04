@@ -7,7 +7,7 @@ DevOps Engineer
 * 🌐  Open Source enthusiast
 * 🌍  I'm based in Garça -São Paulo - Brazil.
 * ✉️  You can contact me at [henriquemv@protonmail.com](mailto:henriquemv@protonmail.com)
-* 🧠  I'm learning Docker, Kubernetes,Terraform and Azure.
+* 🧠  I'm learning Docker, Kubernetes and Azure.
 
 
 
