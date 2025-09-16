@@ -21,7 +21,7 @@ DevOps Engineer
 /></a><a href="https://www.azure.microsoft.com//" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="36" height="36" alt="Azure"
 /></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="36" height="36" alt="Github"
 /></a><a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448256/vault.svg" width="36" height="36" alt="Vault"
-/></a><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/githubactions-icon-2048x2048-ipqow27x.png" width="36" height="36" alt="Github Actions"
+/></a><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/306098/githubactions.svg" width="36" height="36" alt="Github Actions"
 /></a><a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="36" height="36" alt="Nginx"
 
 
